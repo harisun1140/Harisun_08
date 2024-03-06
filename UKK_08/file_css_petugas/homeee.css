@@ -1,0 +1,48 @@
+.box{
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    width: 300px;
+    padding: 20px;
+    height: 370px;
+    top: 50px;
+    margin: 0 auto 100px;
+    text-align: center;
+    border-radius: 15px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+  
+    /* position: relative;
+   
+    background: #FFFFFF;
+    top: 50px;
+    max-width: 300px;
+    margin: 0 auto 100px;
+    padding: 50px;
+    text-align: center;
+    border-radius: 15px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24); */
+  }
+  
+  img{
+    border-radius: 50%;
+    border-width: 4px;
+    border-style: solid;
+    border-color: red;
+  }
+  
+  .text_box {
+    border-radius: 8px;
+    border: 3px solid #1344cc;
+    padding: 10px;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+      margin-top: 20px;
+      text-align: center;
+    font-family: Open Sans;
+  }
+  /* 
+  .text{
+    font-family: Open Sans;
+  
+  } */
+  
